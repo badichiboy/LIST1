@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hod/Desktop/projects/wet1DS/LIST/LIST1/LISTtest.cpp
+iostream
+-
+List.h
+/home/hod/Desktop/projects/wet1DS/LIST/LIST1/List.h
+
+/home/hod/Desktop/projects/wet1DS/LIST/LIST1/List.h
+iostream
+-
+
